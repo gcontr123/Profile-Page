@@ -36,3 +36,16 @@ body {
     text-shadow: 0.03em 0.03em 0 #6D6D6D;
     
 }
+.wrapper {
+  padding: 100px;
+}
+
+.image--cover {
+  width: 250px;
+  height: 250px;
+  border-radius: 100%;
+  margin: 20px;
+
+  object-fit: cover;
+  object-position: center right;
+}
